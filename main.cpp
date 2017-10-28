@@ -10,7 +10,7 @@ typedef unsigned int u_int;
 using namespace std;
 bool check(u_llong);
 
-void main() {
+int main() {
 	u_int a = 0;
 	ofstream file;
 	file.open("output.txt");
